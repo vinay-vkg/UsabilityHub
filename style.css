@@ -195,7 +195,7 @@ ul{
     position: relative;
     min-height: 300px;
     background-color: rgb(29, 31, 31);
-     background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/Images/images.jfif);
+     background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg);
      background-size: cover;
      transition: 0.2 ease-out;
 
